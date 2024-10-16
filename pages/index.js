@@ -7,8 +7,8 @@ const HomePage = () => {
       <iframe
         width="100%"
         height="100%"
-        //  https://ec2d-59-125-142-166.ngrok-free.app 
-        src="https://fd7261ab185962d2e5a6a7110c28c665.serveo.net"
+        //  https://ec2d-59-125-142-166.ngrok-free.app
+        src="https://1180-59-125-142-166.ngrok-free.app "
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
